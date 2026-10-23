@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+*.db
+.env
+nosql_generations.json
+build_all.py
